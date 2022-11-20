@@ -1,8 +1,10 @@
-### Hello, I am Jia-Wei, Liao 👋
-I interested in Computer Vision and Data Science. Please for free to contact me.
+### Hello, I am Jia-Wei, Liao
+I interested in Computer Vision and Data Science. Please feel free to contact me.
 
 
 <!--
+👋
+
 **Jia-Wei-Liao/Jia-Wei-Liao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
