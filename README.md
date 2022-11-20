@@ -1,7 +1,5 @@
 ### Hello, I am Jia-Wei, Liao 👋
-- A PhD student of CSIE at NTU
-- A Data Analyst Intern at Appier
-- Interested in Computer Vision and Data Science
+I interested in Computer Vision and Data Science. Please for free to contact me.
 
 
 <!--
