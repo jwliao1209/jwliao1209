@@ -36,3 +36,5 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git)&nbsp;
 ![Github Flow](https://img.shields.io/badge/Github%20Flow-0d1117?logo=Github&logoColor=white&style=flat-square)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jia-Wei-Liao&show_icons=true&theme=radical)
