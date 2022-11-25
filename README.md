@@ -1,6 +1,5 @@
 ### Hi, I am Jiawei.
-I interested in Computer Vision and Data Science. Please feel free to contact me.
-
+I’m currently a Ph.D. student at NTU CSIE, and I also be a data analyst intern at Appier. Please feel free to contact me.
 
 <!--
 👋
