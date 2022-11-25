@@ -18,3 +18,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:jw@cmlab.csie.ntu.edu.tw)
+[![My Linkdin](https://img.shields.io/badge/My%20Linkedin-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jia-wei-liao-8b154920b/)
+
+## 🛠 &nbsp;Tech Stack
+-->
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35">&nbsp Tech Stack</h1>
+  
+![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python)&nbsp;
+![MATLAB](https://img.shields.io/badge/-MATLAB-0d1117?style=flat-square&logo=matlab&logoColor=1D9924)&nbsp;
+![C](https://img.shields.io/badge/-C-0d1117?style=flat-square&logo=C&logoColor=007ACC)&nbsp;
+
+![NumPy](https://img.shields.io/badge/numpy-0d1117?&style=flat-square&logo=numpy)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-0d1117?&style=flat-square&logo=pandas)&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=FFA518)&nbsp;
+![Pytorch](https://img.shields.io/badge/-Pytorch-0d1117?style=flat-square&logo=Pytorch&logoColor=FFA518)&nbsp;
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-0d1117?style=flat-square&logo=Tensorflow&logoColor=FFA518)&nbsp;
+
+![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git)&nbsp;
+![Github](https://img.shields.io/badge/Github%20Flow-0d1117?logo=Github&logoColor=white&style=flat-square)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
