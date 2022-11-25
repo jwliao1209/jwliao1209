@@ -1,4 +1,4 @@
-### Hello, I am Jiawei.
+### Hi, I am Jiawei.
 I interested in Computer Vision and Data Science. Please feel free to contact me.
 
 
