@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-0d1117?style=flat-square&logo=Tensorflow&logoColor=FFA518)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git)&nbsp;
-![Github](https://img.shields.io/badge/Github%20Flow-0d1117?logo=Github&logoColor=white&style=flat-square)
+![Github Flow](https://img.shields.io/badge/Github%20Flow-0d1117?logo=Github&logoColor=white&style=flat-square)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
