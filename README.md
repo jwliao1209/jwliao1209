@@ -1,5 +1,5 @@
 ### Hi, I am Jiawei.
-I’m currently a Ph.D. student at NTU CSIE, and I also be a data analyst intern at Appier. Please feel free to contact me.
+Hello, my name is Jia-Wei. I’m currently a Ph.D. student at NTU CSIE, and I also served as a data analyst intern at Appier. I have hands-on experience in the field through internships. My research interests are in the areas of data science and computer vision. I am excited to apply my skills and knowledge to new challenges and opportunities in the industry, particularly in these fields. Please feel free to contact me.
 
 <!--
 👋
