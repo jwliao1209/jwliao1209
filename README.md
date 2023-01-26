@@ -34,18 +34,18 @@ Here are some ideas to get you started:
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35">&nbsp Tech Stack</h1>
 
-- **Languages:**
-![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python)&nbsp;
-![C](https://img.shields.io/badge/-C-0d1117?style=flat-square&logo=C&logoColor=007ACC)&nbsp;
+- **Programming Language:** Python, MATLAB, C, C++
+<!-- ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-C-0d1117?style=flat-square&logo=C&logoColor=007ACC)&nbsp; -->
 
-- **Frameworks:** 
-![NumPy](https://img.shields.io/badge/numpy-0d1117?&style=flat-square&logo=numpy)&nbsp;
+- **Framework:** NumPy, Pandas, Scikit-Learn, PyTorch and Tensorflow
+<!-- ![NumPy](https://img.shields.io/badge/numpy-0d1117?&style=flat-square&logo=numpy)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-0d1117?&style=flat-square&logo=pandas)&nbsp;
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=FFA518)&nbsp;
 ![Pytorch](https://img.shields.io/badge/-Pytorch-0d1117?style=flat-square&logo=Pytorch&logoColor=FFA518)&nbsp;
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-0d1117?style=flat-square&logo=Tensorflow&logoColor=FFA518)&nbsp;
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-0d1117?style=flat-square&logo=Tensorflow&logoColor=FFA518)&nbsp; -->
 
-- **Dev Tools:**
-![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git)&nbsp;
+- **Developer Tool:** Git, VS Code, Jupyter, and Vim
+<!-- ![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git)&nbsp;
 ![Github Flow](https://img.shields.io/badge/Github%20Flow-0d1117?logo=Github&logoColor=white&style=flat-square)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp; -->
