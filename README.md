@@ -1,5 +1,5 @@
 ### Hi, I am Jiawei.
-Hello, my name is Jia-Wei. I’m currently a Ph.D. student at NTU CSIE, and I also served as a data analyst intern at Appier. I have hands-on experience in the field through internships. My research interests are in the areas of data science and computer vision. I am excited to apply my skills and knowledge to new challenges and opportunities in the industry, particularly in these fields. Please feel free to contact me.
+Hello, my name is Jia-Wei. I recently completed a one-year tenure at Appier as a data analyst intern, and I am currently pursuing my Ph.D. degree at NTU CSIE. Additionally, I am working as a research intern at the Academia Sinica. With hands-on experience specifically gained from my internship at Appier, I have developed a strong foundation in the field. My research interests lie in data science and computer vision. I am eager to apply my skills and knowledge to tackle new challenges and explore opportunities in these domains within the industry. Please don't hesitate to contact me for further information.
 
 [![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:jw@cmlab.csie.ntu.edu.tw)
 [![My Linkdin](https://img.shields.io/badge/My%20Linkedin-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jiaweiliao1209/)
