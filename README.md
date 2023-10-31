@@ -5,8 +5,7 @@ Hi, I am Jiawei, a Ph.D. student in Computer Science and Information Engineering
 [![My Linkdin](https://img.shields.io/badge/My%20Linkedin-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jwliao1209/)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJia-wei-liao&label=VISITORS&labelColor=%23dce775&countColor=%23697689)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjwliao1209)
 
-<!-- <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35">&nbsp Tech Stack</h1> -->
-## Tech Stack
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">&nbsp Tech Stack</h1>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
@@ -20,9 +19,9 @@ Hi, I am Jiawei, a Ph.D. student in Computer Science and Information Engineering
 </p>
 
 
-<!--<h2 ><img src ="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width ="37">&nbsp Git Stats</h1>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jwliao1209&count_private=true&show_icons=true&theme=github_dark" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwliao1209&hide_progress=true&theme=github_dark&date_format=%5BY.%5Dn.j" height="200"/>
-</div> -->
+<h2 ><img src ="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width ="37">&nbsp Git Stats</h1> 
+<div>
+  <img style = "display: inline-block" src="https://github-readme-stats.vercel.app/api?username=jwliao1209&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img style = "display: inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwliao1209&hide_border=true&hide=jupyter%20notebook&langs_count=3" align="center" />
+</div>
 
