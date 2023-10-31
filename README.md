@@ -11,7 +11,7 @@ Hi, I am Jiawei, a Ph.D. student in Computer Science and Information Engineering
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://camo.githubusercontent.com/161d0875a4808ac2031e966232c535e724d7d897784a7e13710eb1fd58074a25/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e756d70792f6e756d70792d6f726967696e616c2e737667" alt="numpy" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
@@ -23,6 +23,6 @@ Hi, I am Jiawei, a Ph.D. student in Computer Science and Information Engineering
 <h2 ><img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width ="37">&nbsp Git Stats</h1> 
 <div>
   <img style = "display: inline-block" src="https://github-readme-stats.vercel.app/api?username=jwliao1209&show_icons=true&count_private=true&hide_border=true" align="center" />
-  <img style = "display: inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwliao1209&hide_border=true&hide=jupyter%20notebook&langs_count=3" align="center" />
+  <img style = "display: inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwliao1209&layout=compact&show_icons=true&include_all_commits=true&border_radius=15&hide_border=true&langs_count=7&hide=jupyter%20notebook,tex" align="center" />
 </div>
 
