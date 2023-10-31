@@ -1,3 +1,10 @@
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=56bad6"&height=120&section=header"/>
+</a>
+
+
+
+
 ## About Me
 Hi, I am Jiawei, a Ph.D. student in Computer Science and Information Engineering at NTU. My research focuses on Deep Learning for Computer Vision. I also serve as a Research Assistant at Academia Sinica, where I lead a team investigating Generative AI for image generation. In Addition, I have a keen interest in Data Science and completed a year-long tenure as a Data Analyst Intern at Appier. During the internship, I engaged in client data analysis, feature engineering, business model development, and established key business metrics. My commitment to clean code architecture, design patterns, and high-quality programming was nurtured during my time at Appier. I possess strong communication and presentation skills, honed through extensive cross-department collaboration. Passionate about contributing to innovation, I am eager to apply my skills to solve challenging problems in the technology industry and open to discussions about potential collaborations.
 
