@@ -18,8 +18,8 @@
 ## Experience
 
 - Director of Academic Affairs @ [NTU DAC](https://ntudac.com/), 2023.6-present
-- Summer Research Intern @ [CITI](https://www.citi.sinica.edu.tw/), 2023.7-2023.8
-- Data Analysis Intern @ [Appier](https://www.appier.com/zh-tw/), 2022.8-2023.6
+- Summer Researcher Intern @ [CITI](https://www.citi.sinica.edu.tw/), 2023.7-2023.8
+- Data Analyst Intern @ [Appier](https://www.appier.com/zh-tw/), 2022.8-2023.6
 - Undergraduate Student Researcher @ [NCTS](https://ncts.ntu.edu.tw/), 2020.7-2020.8
 
 
