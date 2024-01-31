@@ -16,7 +16,7 @@
 
 
 ## Experience
-
+- Part-time Researcher Assistant @ [CITI](https://www.citi.sinica.edu.tw/), 2023.9-present
 - Director of Academic Affairs @ [NTU DAC](https://ntudac.com/), 2023.6-present
 - Summer Researcher Intern @ [CITI](https://www.citi.sinica.edu.tw/), 2023.7-2023.8
 - Data Analyst Intern @ [Appier](https://www.appier.com/zh-tw/), 2022.8-2023.6
